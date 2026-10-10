@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/bR-MoAoWeDIAAAAd/puro-changed.gif" width="253">
+  <img src="https://media1.tenor.com/m/bR-MoAoWeDIAAAAd/puro-changed.gif" width="250">
   <img src="https://i.pinimg.com/originals/c5/6b/e7/c56be7fe2c8020f74f9a44d94d18f231.jpg?nii=t" width="300">
   <img src="https://media1.tenor.com/m/Zv5THhrIjsgAAAAC/boy-kisser-boykisser.gif" width="450">
 </p>
